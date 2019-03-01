@@ -1,4 +1,11 @@
 This is test file
 in the remote directly
 
+<<<<<<< HEAD
 this is to check branching 
+=======
+this is to check branching
+
+This to push task-3 branch to remote
+
+>>>>>>> 6ada90fde828cb8074e7d027c5026fc5e1898e28
